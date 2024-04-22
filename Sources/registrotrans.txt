@@ -1,0 +1,10 @@
+
+---------Nuevos Movimientos Registrados En El Banco---------
+id,clave,saldo
+1,1,555.0
+987,789,-555.0
+
+---------Nuevos Movimientos Registrados En El Banco---------
+id,clave,saldo
+1,1,555.0
+987,789,111.0
